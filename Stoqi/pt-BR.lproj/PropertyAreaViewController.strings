@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "1000 m²"; ObjectID = "01v-xw-m51"; */
+"01v-xw-m51.text" = "1000 m²";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "0eF-yJ-ogb"; */
+"0eF-yJ-ogb.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "I have no idea"; ObjectID = "LFT-Hi-Ybr"; */
+"LFT-Hi-Ybr.normalTitle" = "I have no idea";
+
+/* Class = "UILabel"; text = "Rooms"; ObjectID = "hnz-as-3GH"; */
+"hnz-as-3GH.text" = "Rooms";
+
+/* Class = "UILabel"; text = "Internal area Approximate"; ObjectID = "ojC-Nu-cUv"; */
+"ojC-Nu-cUv.text" = "Internal area Approximate";

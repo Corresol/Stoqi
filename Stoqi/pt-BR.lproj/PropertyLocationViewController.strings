@@ -1,0 +1,18 @@
+
+/* Class = "UIViewController"; title = "Question 1"; ObjectID = "IDd-yr-ebK"; */
+"IDd-yr-ebK.title" = "Question 1";
+
+/* Class = "UILabel"; text = "Click on the circle to change the city"; ObjectID = "LeZ-mc-Dnt"; */
+"LeZ-mc-Dnt.text" = "Click on the circle to change the city";
+
+/* Class = "UILabel"; text = "Select a city"; ObjectID = "U2C-B2-MxS"; */
+"U2C-B2-MxS.text" = "Select a city";
+
+/* Class = "UITextField"; placeholder = "Type city name here"; ObjectID = "beq-f4-rTM"; */
+"beq-f4-rTM.placeholder" = "Type city name here";
+
+/* Class = "UILabel"; text = "Select a city"; ObjectID = "rXa-Yb-2jd"; */
+"rXa-Yb-2jd.text" = "Select a city";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tbW-1t-Mkc"; */
+"tbW-1t-Mkc.text" = "Label";

@@ -1,0 +1,63 @@
+"Stoqi" = "Stoqi";
+
+"kNoInternetConnection" = "No internet connection";
+"kLoginFailed" = "Sorry, login failed. Try again later.";
+"kEnterValidEmailAndPassword" = "Please, enter correct email and password.";
+"Logging in..." = "Logging in...";
+"Facebook authorization failed!" = "Facebook authorization failed!";
+"Sorry, login failed. Try again later." = "Sorry, login failed. Try again later.";
+"Failed to save your list." = "Failed to save your list.";
+"Failed to save profile." = "Failed to save profile.";
+"Failed to save products list." = "Failed to save products list.";
+"Error" = "Error";
+"Confirmed" = "Confirmed";
+
+"Adding card..." = "Adding card...";
+
+"Card added!" = "Card added!";
+"Card selected!" = "Card selected!";
+"Card removed!" = "Card removed!";
+
+"Failed to add card." = "Failed to add card.";
+"Card don't selected" = "Card don't selected";
+"Card don't removed" = "Card don't removed";
+
+"The brand" = "The brand";
+"have a better price. Do you want replace ?" = "have a better price. Do you want replace ?";
+"ACCEPT" = "ACCEPT";
+"DECLINE" = "DECLINE";
+
+"Buying..." = "Buying...";
+"Authorizing..." = "Authorizing...";
+"Authorize purchase" = "Authorize purchase";
+"Buy" = "Buy";
+"Payment was successfully done" = "Payment was successfully done";
+"We will pre-authorize your replacement if any price will be changed until then we will let you know" = "We will pre-authorize your replacement if any price will be changed until then we will let you know";
+
+"Share in FaceBook" = "Share in FaceBook";
+"Share in Twitter" = "Share in Twitter";
+"Share in WhatsApp" = "Share in WhatsApp";
+"Cancel" = "Cancel";
+
+"Loading products.." = "Loading products..";
+"Failed to load products. Please, try again." = "Failed to load products. Please, try again.";
+"Saving list.." = "Saving list..";
+"The list is empty" = "The list is empty";
+
+"His villain is the " = "His villain is the ";
+"Your hero is the " = "Your hero is the ";
+
+"Loading analytic.." = "Loading analytic..";
+"Failed to load your analytic" = "Failed to load your analytic";
+
+"Next replacement " = "Next replacement ";
+"authorized" = "authorized";
+"not authorized" = "not authorized";
+
+"You haven't added any cards yet" = "You haven't added any cards yet";
+"You haven't select primary card yet" = "You haven't select primary card yet";
+"You haven't set delivery address yet" = "You haven't set delivery address yet";
+
+"Add Card" = "Add Card";
+"Select Card" = "Select Card";
+"Add Address" = "Add Address";

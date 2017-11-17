@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "You can adjust the list to attend your particularities"; ObjectID = "0MM-UM-ZVt"; */
+"0MM-UM-ZVt.text" = "You can adjust the list to attend your particularities";
+
+/* Class = "UIViewController"; title = "Intro Screen 5"; ObjectID = "1s2-qM-B43"; */
+"1s2-qM-B43.title" = "Intro Screen 5";
+
+/* Class = "UIViewController"; title = "Intro Screen 3"; ObjectID = "3aK-hs-9tP"; */
+"3aK-hs-9tP.title" = "Intro Screen 3";
+
+/* Class = "UILabel"; text = "... And with a sinble program button to reset your pantry!"; ObjectID = "5ch-Hz-IDB"; */
+"5ch-Hz-IDB.text" = "... And with a sinble program button to reset your pantry!";
+
+/* Class = "UIViewController"; title = "Intro Screen 1"; ObjectID = "78c-W0-0AC"; */
+"78c-W0-0AC.title" = "Intro Screen 1";
+
+/* Class = "UILabel"; text = "First we suggest a list of items to your profile"; ObjectID = "EFM-FX-Np4"; */
+"EFM-FX-Np4.text" = "First we suggest a list of items to your profile";
+
+/* Class = "UIViewController"; title = "Intro Screen 7"; ObjectID = "FAD-Yr-Nsj"; */
+"FAD-Yr-Nsj.title" = "Intro Screen 7";
+
+/* Class = "UIViewController"; title = "Intro Screen 4"; ObjectID = "LBf-bP-EWS"; */
+"LBf-bP-EWS.title" = "Intro Screen 4";
+
+/* Class = "UIViewController"; title = "Intro Screen 6"; ObjectID = "MKl-0s-zlc"; */
+"MKl-0s-zlc.title" = "Intro Screen 6";
+
+/* Class = "UIViewController"; title = "Page Holder"; ObjectID = "TFr-1S-ZCb"; */
+"TFr-1S-ZCb.title" = "Page Holder";
+
+/* Class = "UILabel"; text = "Conscious consumption is good for your pocket and for the environment"; ObjectID = "V9X-Tq-AqF"; */
+"V9X-Tq-AqF.text" = "Conscious consumption is good for your pocket and for the environment";
+
+/* Class = "UILabel"; text = "Over time Stoqi learns how long each product lasts in your home ..."; ObjectID = "dtU-5m-8lF"; */
+"dtU-5m-8lF.text" = "Over time Stoqi learns how long each product lasts in your home ...";
+
+/* Class = "UILabel"; text = "Reports indicate habits, savings and waste comparing anonymous data from similar users"; ObjectID = "fCM-Lv-ii8"; */
+"fCM-Lv-ii8.text" = "Reports indicate habits, savings and waste comparing anonymous data from similar users";
+
+/* Class = "UIButton"; normalTitle = "Skip Intro"; ObjectID = "hjg-9l-aKV"; */
+"hjg-9l-aKV.normalTitle" = "Skip Intro";
+
+/* Class = "UILabel"; text = "We researched prices and deliver products"; ObjectID = "j3v-Tf-rWp"; */
+"j3v-Tf-rWp.text" = "We researched prices and deliver products";
+
+/* Class = "UILabel"; text = "Each setting teaches our algorithm to better understand their consumption "; ObjectID = "kwz-Nj-O3M"; */
+"kwz-Nj-O3M.text" = "Each setting teaches our algorithm to better understand their consumption ";
+
+/* Class = "UILabel"; text = "Our goal is not to sell!"; ObjectID = "lU9-sL-tVP"; */
+"lU9-sL-tVP.text" = "Our goal is not to sell!";
+
+/* Class = "UIViewController"; title = "Intro Screen 2"; ObjectID = "mCb-st-NWO"; */
+"mCb-st-NWO.title" = "Intro Screen 2";

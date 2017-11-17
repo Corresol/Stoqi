@@ -1,0 +1,261 @@
+
+/* Class = "UILabel"; text = "His villain is the Soap Powder"; ObjectID = "0H7-Kl-NHW"; */
+"0H7-Kl-NHW.text" = "His villain is the Soap Powder";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "0jC-Af-5gn"; */
+"0jC-Af-5gn.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Manage Your Cards"; ObjectID = "1cC-XI-KAr"; */
+"1cC-XI-KAr.text" = "Manage Your Cards";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "3EG-pA-y2C"; */
+"3EG-pA-y2C.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "3ro-rM-9Ic"; */
+"3ro-rM-9Ic.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Today, 1 Jan 2017"; ObjectID = "4BH-bO-6n9"; */
+"4BH-bO-6n9.text" = "Today, 1 Jan 2017";
+
+/* Class = "UILabel"; text = "Payment Details"; ObjectID = "4BY-2a-2mM"; */
+"4BY-2a-2mM.text" = "Payment Details";
+
+/* Class = "UILabel"; text = "Article title"; ObjectID = "5F1-M8-uBS"; */
+"5F1-M8-uBS.text" = "Article title";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "5o4-7T-dMG"; */
+"5o4-7T-dMG.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6Ra-bE-ham"; */
+"6Ra-bE-ham.text" = "Title";
+
+/* Class = "UILabel"; text = "+ 15%"; ObjectID = "6es-Df-Ogs"; */
+"6es-Df-Ogs.text" = "+ 15%";
+
+/* Class = "UILabel"; text = "Delivered on date"; ObjectID = "7Vh-AC-j3T"; */
+"7Vh-AC-j3T.text" = "Delivered on date";
+
+/* Class = "UILabel"; text = "Add New Card"; ObjectID = "9hW-vl-O2m"; */
+"9hW-vl-O2m.text" = "Add New Card";
+
+/* Class = "UITabBarItem"; title = "Cleaning School"; ObjectID = "Ap6-Me-0qM"; */
+"Ap6-Me-0qM.title" = "Cleaning School";
+
+/* Class = "UILabel"; text = "marcelobdemiranda@yahoo.com"; ObjectID = "B7e-QJ-WgG"; */
+"B7e-QJ-WgG.text" = "marcelobdemiranda@yahoo.com";
+
+/* Class = "UILabel"; text = "28 Aug - 4 Sep"; ObjectID = "Bej-PC-OGU"; */
+"Bej-PC-OGU.text" = "28 Aug - 4 Sep";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "DtT-8e-H1G"; */
+"DtT-8e-H1G.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Marcelo Miranda"; ObjectID = "EDK-it-V5i"; */
+"EDK-it-V5i.text" = "Marcelo Miranda";
+
+/* Class = "UITabBarItem"; title = "Help"; ObjectID = "FsL-HZ-tCU"; */
+"FsL-HZ-tCU.title" = "Help";
+
+/* Class = "UILabel"; text = "Next replacement"; ObjectID = "IQD-68-a8E"; */
+"IQD-68-a8E.text" = "Next replacement";
+
+/* Class = "UILabel"; text = "Check your Stoqi monthly"; ObjectID = "ISi-Sn-MSx"; */
+"ISi-Sn-MSx.text" = "Check your Stoqi monthly";
+
+/* Class = "UIButton"; normalTitle = "Share Stoqi"; ObjectID = "IjD-s1-3BS"; */
+"IjD-s1-3BS.normalTitle" = "Share Stoqi";
+
+/* Class = "UILabel"; text = "Scan product's barcode"; ObjectID = "M5p-BE-UgZ"; */
+"M5p-BE-UgZ.text" = "Scan product's barcode";
+
+/* Class = "UILabel"; text = "You still have"; ObjectID = "M6E-KD-Kbb"; */
+"M6E-KD-Kbb.text" = "You still have";
+
+/* Class = "UILabel"; text = "Monthly average"; ObjectID = "MCg-8v-cgB"; */
+"MCg-8v-cgB.text" = "Monthly average";
+
+/* Class = "UILabel"; text = "R$ 89"; ObjectID = "MLb-Uz-a9h"; */
+"MLb-Uz-a9h.text" = "R$ 89";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "NMc-NV-SZU"; */
+"NMc-NV-SZU.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Question"; ObjectID = "NQs-ym-7ta"; */
+"NQs-ym-7ta.text" = "Question";
+
+/* Class = "UILabel"; text = "9%"; ObjectID = "OHp-H6-3GD"; */
+"OHp-H6-3GD.text" = "9%";
+
+/* Class = "UITabBarItem"; title = "Analysis"; ObjectID = "OYT-7b-V3Z"; */
+"OYT-7b-V3Z.title" = "Analysis";
+
+/* Class = "UIButton"; normalTitle = "Read More"; ObjectID = "OdB-aV-vhx"; */
+"OdB-aV-vhx.normalTitle" = "Read More";
+
+/* Class = "UILabel"; text = "Add Item"; ObjectID = "PGv-P3-9kW"; */
+"PGv-P3-9kW.text" = "Add Item";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "PS5-xc-wx7"; */
+"PS5-xc-wx7.text" = "Help";
+
+/* Class = "UILabel"; text = "•••• 4556"; ObjectID = "SYU-6c-RVe"; */
+"SYU-6c-RVe.text" = "•••• 4556";
+
+/* Class = "UITabBarItem"; title = "My Stoqi"; ObjectID = "Si9-K1-nX8"; */
+"Si9-K1-nX8.title" = "My Stoqi";
+
+/* Class = "UILabel"; text = "Cleaning School"; ObjectID = "TMH-dC-KWj"; */
+"TMH-dC-KWj.text" = "Cleaning School";
+
+/* Class = "UILabel"; text = "Your hero is the detergent"; ObjectID = "TSS-Eg-2zJ"; */
+"TSS-Eg-2zJ.text" = "Your hero is the detergent";
+
+/* Class = "UILabel"; text = "R$ 250"; ObjectID = "Thy-Fx-5cI"; */
+"Thy-Fx-5cI.text" = "R$ 250";
+
+/* Class = "UILabel"; text = "•••• 4556"; ObjectID = "U7o-e0-jp8"; */
+"U7o-e0-jp8.text" = "•••• 4556";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "UMN-hs-0c1"; */
+"UMN-hs-0c1.placeholder" = "CVV";
+
+/* Class = "UILabel"; text = "Change my infos"; ObjectID = "UZQ-wc-Mjp"; */
+"UZQ-wc-Mjp.text" = "Change my infos";
+
+/* Class = "UILabel"; text = "Check my"; ObjectID = "VYz-iA-kID"; */
+"VYz-iA-kID.text" = "Check my";
+
+/* Class = "UILabel"; text = "Be aware of your spending habits is good for your pocket and for the environment"; ObjectID = "W61-L0-RNs"; */
+"W61-L0-RNs.text" = "Be aware of your spending habits is good for your pocket and for the environment";
+
+/* Class = "UIButton"; normalTitle = "Change my infos"; ObjectID = "WNp-O7-vTd"; */
+"WNp-O7-vTd.normalTitle" = "Change my infos";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "XZT-8u-cL3"; */
+"XZT-8u-cL3.normalTitle" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Card owner's name"; ObjectID = "YQ5-GE-EfG"; */
+"YQ5-GE-EfG.placeholder" = "Card owner's name";
+
+/* Class = "UILabel"; text = "If you do not know name of the product, use your camera to scan the barcode to fill in all fields"; ObjectID = "a2v-fB-Qq2"; */
+"a2v-fB-Qq2.text" = "If you do not know name of the product, use your camera to scan the barcode to fill in all fields";
+
+/* Class = "UILabel"; text = "Next replacement"; ObjectID = "aNn-Kr-VR5"; */
+"aNn-Kr-VR5.text" = "Next replacement";
+
+/* Class = "UILabel"; text = "To get relevant data we need to learn at least three replacement cycles and achieve 5000 users in the app. Help us to spread the Stoqi to bring more interesting analysis!"; ObjectID = "b08-xl-O56"; */
+"b08-xl-O56.text" = "To get relevant data we need to learn at least three replacement cycles and achieve 5000 users in the app. Help us to spread the Stoqi to bring more interesting analysis!";
+
+/* Class = "UILabel"; text = "+ 15%"; ObjectID = "bX6-eu-hbI"; */
+"bX6-eu-hbI.text" = "+ 15%";
+
+/* Class = "UILabel"; text = "R$ 89"; ObjectID = "bea-vF-wnD"; */
+"bea-vF-wnD.text" = "R$ 89";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bkx-CP-6uc"; */
+"bkx-CP-6uc.text" = "Label";
+
+/* Class = "UILabel"; text = "- 8%"; ObjectID = "bzo-8F-NOf"; */
+"bzo-8F-NOf.text" = "- 8%";
+
+/* Class = "UILabel"; text = "Consumption Analysis"; ObjectID = "cqT-4X-hPQ"; */
+"cqT-4X-hPQ.text" = "Consumption Analysis";
+
+/* Class = "UILabel"; text = "Some details"; ObjectID = "dAv-V5-xvl"; */
+"dAv-V5-xvl.text" = "Some details";
+
+/* Class = "UILabel"; text = "3 Items for R$ 111"; ObjectID = "dE9-i0-hFm"; */
+"dE9-i0-hFm.text" = "3 Items for R$ 111";
+
+/* Class = "UIButton"; normalTitle = "Got It"; ObjectID = "dml-K8-orr"; */
+"dml-K8-orr.normalTitle" = "Got It";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "eKM-aF-d3z"; */
+"eKM-aF-d3z.placeholder" = "Phone";
+
+/* Class = "UIButton"; normalTitle = "Use the barcode"; ObjectID = "egM-cZ-2bX"; */
+"egM-cZ-2bX.normalTitle" = "Use the barcode";
+
+/* Class = "UITabBarItem"; title = "Requests"; ObjectID = "gbh-Zm-7I4"; */
+"gbh-Zm-7I4.title" = "Requests";
+
+/* Class = "UILabel"; text = "2 units"; ObjectID = "guG-aw-GNs"; */
+"guG-aw-GNs.text" = "2 units";
+
+/* Class = "UILabel"; text = "62%"; ObjectID = "hFQ-Eq-r95"; */
+"hFQ-Eq-r95.text" = "62%";
+
+/* Class = "UILabel"; text = "Try using your camera to read barcode"; ObjectID = "hc9-A3-1J3"; */
+"hc9-A3-1J3.text" = "Try using your camera to read barcode";
+
+/* Class = "UILabel"; text = "Hello, Marcello"; ObjectID = "hem-O5-K2d"; */
+"hem-O5-K2d.text" = "Hello, Marcello";
+
+/* Class = "UILabel"; text = "Spending / month"; ObjectID = "iMA-pu-7Id"; */
+"iMA-pu-7Id.text" = "Spending / month";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "jNt-lR-sFI"; */
+"jNt-lR-sFI.text" = "Other";
+
+/* Class = "UILabel"; text = "What weights more in your pocket?"; ObjectID = "jpG-3s-npP"; */
+"jpG-3s-npP.text" = "What weights more in your pocket?";
+
+/* Class = "UILabel"; text = "Your Requests"; ObjectID = "kn5-eR-6d4"; */
+"kn5-eR-6d4.text" = "Your Requests";
+
+/* Class = "UILabel"; text = "Article description"; ObjectID = "ldH-vq-f8w"; */
+"ldH-vq-f8w.text" = "Article description";
+
+/* Class = "UILabel"; text = "8 items for delivery between"; ObjectID = "llc-64-oin"; */
+"llc-64-oin.text" = "8 items for delivery between";
+
+/* Class = "UILabel"; text = "Saved"; ObjectID = "mLQ-Lw-6Jt"; */
+"mLQ-Lw-6Jt.text" = "Saved";
+
+/* Class = "UILabel"; text = "Consumption / month"; ObjectID = "owq-ws-8yC"; */
+"owq-ws-8yC.text" = "Consumption / month";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "pl6-4O-7tx"; */
+"pl6-4O-7tx.text" = "Brand";
+
+/* Class = "UILabel"; text = "the others"; ObjectID = "sgZ-PN-LhY"; */
+"sgZ-PN-LhY.text" = "the others";
+
+/* Class = "UILabel"; text = "22345-040 Rua Barao do Triunfo"; ObjectID = "tWA-yJ-gpA"; */
+"tWA-yJ-gpA.text" = "22345-040 Rua Barao do Triunfo";
+
+/* Class = "UILabel"; text = "26 Aug - 3 Sep"; ObjectID = "te4-zc-gqY"; */
+"te4-zc-gqY.text" = "26 Aug - 3 Sep";
+
+/* Class = "UILabel"; text = "Products clothing"; ObjectID = "uGV-PB-TwN"; */
+"uGV-PB-TwN.text" = "Products clothing";
+
+/* Class = "UILabel"; text = "55 21 88985 8822"; ObjectID = "uUS-eF-O4c"; */
+"uUS-eF-O4c.text" = "55 21 88985 8822";
+
+/* Class = "UILabel"; text = "Question?"; ObjectID = "ub2-nf-aRB"; */
+"ub2-nf-aRB.text" = "Question?";
+
+/* Class = "UILabel"; text = "Answer"; ObjectID = "utz-mD-WNf"; */
+"utz-mD-WNf.text" = "Answer";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "uv4-1G-wre"; */
+"uv4-1G-wre.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Cleaning products"; ObjectID = "wd0-j0-g48"; */
+"wd0-j0-g48.text" = "Cleaning products";
+
+/* Class = "UITextField"; placeholder = "Card number"; ObjectID = "yEO-EA-e83"; */
+"yEO-EA-e83.placeholder" = "Card number";
+
+/* Class = "UILabel"; text = "© 2016 Stoqi. All rights reserved."; ObjectID = "yV9-MO-ruH"; */
+"yV9-MO-ruH.text" = "© 2016 Stoqi. All rights reserved.";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "z2w-Ki-pK8"; */
+"z2w-Ki-pK8.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Here we compare products consumption based on anonymous data from app users to point wasting, savings, brands and more efficient products in your house. But to have relevant data we need to learn at least three replacement cycles and 5000 users in the app. More interesting reports will be available!"; ObjectID = "zvq-Vl-GOl"; */
+"zvq-Vl-GOl.text" = "Here we compare products consumption based on anonymous data from app users to point wasting, savings, brands and more efficient products in your house. But to have relevant data we need to learn at least three replacement cycles and 5000 users in the app. More interesting reports will be available!";
+
+/* Class = "UILabel"; text = "29%"; ObjectID = "zwn-Wg-dTf"; */
+"zwn-Wg-dTf.text" = "29%";

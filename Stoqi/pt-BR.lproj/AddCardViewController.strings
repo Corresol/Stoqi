@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "4Xc-Nv-auk"; */
+"4Xc-Nv-auk.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Owner"; ObjectID = "D6b-pg-Zot"; */
+"D6b-pg-Zot.placeholder" = "Owner";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "Lzj-gg-7ZH"; */
+"Lzj-gg-7ZH.placeholder" = "CVV";
+
+/* Class = "UITextField"; placeholder = "Card number"; ObjectID = "Zad-ss-HVU"; */
+"Zad-ss-HVU.placeholder" = "Card number";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "lGF-r2-N1l"; */
+"lGF-r2-N1l.normalTitle" = "Add";

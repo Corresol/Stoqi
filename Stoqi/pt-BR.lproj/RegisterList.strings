@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Where the cleaning is done?"; ObjectID = "2Y8-aK-eBZ"; */
+"2Y8-aK-eBZ.text" = "Where the cleaning is done?";
+
+/* Class = "UILabel"; text = "Create List"; ObjectID = "4NI-pw-A42"; */
+"4NI-pw-A42.text" = "Create List";
+
+/* Class = "UIViewController"; title = "Page Holder"; ObjectID = "6gW-W5-3bh"; */
+"6gW-W5-3bh.title" = "Page Holder";
+
+/* Class = "UILabel"; text = "thinking..."; ObjectID = "Fs0-tH-Mzf"; */
+"Fs0-tH-Mzf.text" = "thinking...";
+
+/* Class = "UILabel"; text = "Create List"; ObjectID = "KS7-WI-wg5"; */
+"KS7-WI-wg5.text" = "Create List";
+
+/* Class = "UILabel"; text = "...of you ;-)"; ObjectID = "L7e-Hh-Hfz"; */
+"L7e-Hh-Hfz.text" = "...of you ;-)";
+
+/* Class = "UILabel"; text = "Before you need to know a little"; ObjectID = "Z00-sB-esS"; */
+"Z00-sB-esS.text" = "Before you need to know a little";
+
+/* Class = "UILabel"; text = "List created"; ObjectID = "ZyE-mB-G1K"; */
+"ZyE-mB-G1K.text" = "List created";
+
+/* Class = "UIButton"; normalTitle = "Open my list"; ObjectID = "bHC-dZ-Wqa"; */
+"bHC-dZ-Wqa.normalTitle" = "Open my list";
+
+/* Class = "UILabel"; text = "Over time, Stoqi will learn more about you and refines suggestions "; ObjectID = "cJ9-Dx-SO7"; */
+"cJ9-Dx-SO7.text" = "Over time, Stoqi will learn more about you and refines suggestions ";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "ezh-fq-s42"; */
+"ezh-fq-s42.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Creating your list"; ObjectID = "hUU-iF-dde"; */
+"hUU-iF-dde.text" = "Creating your list";
+
+/* Class = "UIButton"; normalTitle = "Next Question"; ObjectID = "iIq-jo-Kgc"; */
+"iIq-jo-Kgc.normalTitle" = "Next Question";
+
+/* Class = "UILabel"; text = "We've created a list with your profile"; ObjectID = "lMq-6d-FcI"; */
+"lMq-6d-FcI.text" = "We've created a list with your profile";
+
+/* Class = "UILabel"; text = "Only 5 quick questions. Alright?"; ObjectID = "tGf-K4-BrG"; */
+"tGf-K4-BrG.text" = "Only 5 quick questions. Alright?";
+
+/* Class = "UIButton"; normalTitle = "Try Again"; ObjectID = "z3i-UI-uye"; */
+"z3i-UI-uye.normalTitle" = "Try Again";

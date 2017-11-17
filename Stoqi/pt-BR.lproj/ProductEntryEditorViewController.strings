@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "85q-nY-EA1"; */
+"85q-nY-EA1.text" = "Product";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "Yli-Vw-rg4"; */
+"Yli-Vw-rg4.text" = "Brand";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "cic-uI-9qT"; */
+"cic-uI-9qT.text" = "Description";
+
+/* Class = "UILabel"; text = "Units"; ObjectID = "dh6-Cg-7eW"; */
+"dh6-Cg-7eW.text" = "Units";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "yoc-Ym-5mB"; */
+"yoc-Ym-5mB.text" = "2";

@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Zip"; ObjectID = "7KF-wn-tBX"; */
+"7KF-wn-tBX.placeholder" = "Zip";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "do4-eM-XXv"; */
+"do4-eM-XXv.normalTitle" = "Change";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lVh-me-9u4"; */
+"lVh-me-9u4.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Building"; ObjectID = "rKi-gh-Bwh"; */
+"rKi-gh-Bwh.placeholder" = "Building";
+
+/* Class = "UITextField"; placeholder = "Street"; ObjectID = "rlt-9z-CLl"; */
+"rlt-9z-CLl.placeholder" = "Street";

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Connect with Facebook"; ObjectID = "fay-WW-64I"; */
+"fay-WW-64I.normalTitle" = "Connect with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "hog-pR-S2c"; */
+"hog-pR-S2c.normalTitle" = "Enter";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "ije-gz-yle"; */
+"ije-gz-yle.text" = "OR";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "uxl-x5-0ye"; */
+"uxl-x5-0ye.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "xJr-z4-bUa"; */
+"xJr-z4-bUa.placeholder" = "Email";

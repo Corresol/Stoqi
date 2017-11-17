@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ProductsPriorityViewController" customModule="Stoqi" customModuleProvider="target">
+            <connections>
+                <outlet property="bBrand" destination="DYa-mt-6Lj" id="JLI-CQ-GFw"/>
+                <outlet property="bMixed" destination="w4Z-yh-UGg" id="vND-WX-QDC"/>
+                <outlet property="bPrice" destination="Jws-mB-hLX" id="9X5-X1-fMS"/>
+                <outlet property="view" destination="WPe-Jx-FPh" id="x43-EV-WxU"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="WPe-Jx-FPh">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <userGuides>
+                <userLayoutGuide location="111" affinity="minX"/>
+            </userGuides>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The rule is to save every penny" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jiS-m0-XNi">
+                    <rect key="frame" x="112" y="123" width="104" height="29"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="104" id="88n-aD-86z"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jws-mB-hLX">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="220"/>
+                    <inset key="contentEdgeInsets" minX="46" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="24" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Only Price" image="select_priority_price">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="select_priority_price_selected">
+                        <color key="titleColor" red="0.98823529480000005" green="0.43529412150000002" blue="0.086274512110000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="optionSelected:" destination="-1" eventType="touchUpInside" id="12f-pK-p0S"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9Zj-8d-B6l">
+                    <rect key="frame" x="0.0" y="220" width="375" height="1"/>
+                    <color key="backgroundColor" red="0.81960785390000002" green="0.90588235859999999" blue="0.83137255909999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="bh4-SS-gmP"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Paid much more for brands in which trust" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wOo-h8-jta">
+                    <rect key="frame" x="112" y="344" width="124" height="29"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="124" id="IWZ-N3-z9B"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DYa-mt-6Lj">
+                    <rect key="frame" x="0.0" y="221" width="375" height="220"/>
+                    <inset key="contentEdgeInsets" minX="58" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="24" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="-4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Only Brand" image="select_priority_brand">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="select_priority_brand_selected">
+                        <color key="titleColor" red="0.98823529480000005" green="0.43529412150000002" blue="0.086274512110000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="optionSelected:" destination="-1" eventType="touchUpInside" id="Aek-hh-96X"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Yls-U8-og7">
+                    <rect key="frame" x="0.0" y="441" width="375" height="1"/>
+                    <color key="backgroundColor" red="0.81960785390000002" green="0.90588235859999999" blue="0.83137255909999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="6EK-lT-b3h"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Avoid the expensive and unknown" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GnD-1r-kmm">
+                    <rect key="frame" x="112" y="565" width="120" height="29"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="120" id="Ico-8x-bcS"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="w4Z-yh-UGg">
+                    <rect key="frame" x="0.0" y="442" width="375" height="220.5"/>
+                    <inset key="contentEdgeInsets" minX="50" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="24" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="4" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Brand and Price" image="select_priority_mixed">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="select_priority_mixed_selected">
+                        <color key="titleColor" red="0.98823529480000005" green="0.43529412150000002" blue="0.086274512110000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="optionSelected:" destination="-1" eventType="touchUpInside" id="ygv-fJ-MjT"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="w4Z-yh-UGg" firstAttribute="height" secondItem="DYa-mt-6Lj" secondAttribute="height" id="0bO-JZ-e1p"/>
+                <constraint firstItem="DYa-mt-6Lj" firstAttribute="height" secondItem="Jws-mB-hLX" secondAttribute="height" id="9ha-zb-OBx"/>
+                <constraint firstItem="Jws-mB-hLX" firstAttribute="height" secondItem="WPe-Jx-FPh" secondAttribute="height" multiplier="0.33" id="Gdn-8d-q5D"/>
+                <constraint firstItem="GnD-1r-kmm" firstAttribute="leading" secondItem="w4Z-yh-UGg" secondAttribute="leading" constant="112" id="HEr-AV-ovW"/>
+                <constraint firstItem="DYa-mt-6Lj" firstAttribute="width" secondItem="Jws-mB-hLX" secondAttribute="width" id="IlP-7P-L17"/>
+                <constraint firstItem="9Zj-8d-B6l" firstAttribute="top" secondItem="Jws-mB-hLX" secondAttribute="bottom" id="JC6-xi-NuR"/>
+                <constraint firstItem="9Zj-8d-B6l" firstAttribute="centerX" secondItem="Jws-mB-hLX" secondAttribute="centerX" id="JRW-jP-OJE"/>
+                <constraint firstItem="w4Z-yh-UGg" firstAttribute="centerX" secondItem="DYa-mt-6Lj" secondAttribute="centerX" id="JS4-Ic-yoD"/>
+                <constraint firstItem="w4Z-yh-UGg" firstAttribute="width" secondItem="DYa-mt-6Lj" secondAttribute="width" id="Kdv-7a-ub8"/>
+                <constraint firstItem="jiS-m0-XNi" firstAttribute="baseline" secondItem="Jws-mB-hLX" secondAttribute="baseline" constant="32" id="WUS-Vl-YVu"/>
+                <constraint firstAttribute="trailing" secondItem="Jws-mB-hLX" secondAttribute="trailing" id="X99-dK-Chf"/>
+                <constraint firstItem="wOo-h8-jta" firstAttribute="baseline" secondItem="DYa-mt-6Lj" secondAttribute="baseline" constant="32" id="XrU-cs-Jq4"/>
+                <constraint firstItem="Jws-mB-hLX" firstAttribute="leading" secondItem="WPe-Jx-FPh" secondAttribute="leading" id="YST-8C-qgI"/>
+                <constraint firstItem="DYa-mt-6Lj" firstAttribute="top" secondItem="Jws-mB-hLX" secondAttribute="bottom" constant="1" id="aiX-EL-0Vn"/>
+                <constraint firstItem="9Zj-8d-B6l" firstAttribute="width" secondItem="Jws-mB-hLX" secondAttribute="width" id="cwT-zL-BPv"/>
+                <constraint firstItem="wOo-h8-jta" firstAttribute="leading" secondItem="DYa-mt-6Lj" secondAttribute="leading" constant="112" id="feF-Jw-3no"/>
+                <constraint firstItem="w4Z-yh-UGg" firstAttribute="top" secondItem="DYa-mt-6Lj" secondAttribute="bottom" constant="1" id="fo5-ic-1cF"/>
+                <constraint firstItem="DYa-mt-6Lj" firstAttribute="centerX" secondItem="Jws-mB-hLX" secondAttribute="centerX" id="gQ9-RE-4vW"/>
+                <constraint firstItem="jiS-m0-XNi" firstAttribute="leading" secondItem="Jws-mB-hLX" secondAttribute="leading" constant="112" id="iDp-H1-hRI"/>
+                <constraint firstItem="Yls-U8-og7" firstAttribute="width" secondItem="DYa-mt-6Lj" secondAttribute="width" id="lPg-Hr-COK"/>
+                <constraint firstItem="Jws-mB-hLX" firstAttribute="top" secondItem="WPe-Jx-FPh" secondAttribute="top" id="roy-UX-h9o"/>
+                <constraint firstItem="Yls-U8-og7" firstAttribute="top" secondItem="DYa-mt-6Lj" secondAttribute="bottom" id="rqe-J8-pcc"/>
+                <constraint firstItem="Yls-U8-og7" firstAttribute="centerX" secondItem="DYa-mt-6Lj" secondAttribute="centerX" id="s5V-Rh-Obp"/>
+                <constraint firstItem="GnD-1r-kmm" firstAttribute="baseline" secondItem="w4Z-yh-UGg" secondAttribute="baseline" constant="32" id="v11-g7-kOW"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="select_priority_brand" width="27" height="50"/>
+        <image name="select_priority_brand_selected" width="27" height="50"/>
+        <image name="select_priority_mixed" width="37" height="50"/>
+        <image name="select_priority_mixed_selected" width="37" height="50"/>
+        <image name="select_priority_price" width="42" height="42"/>
+        <image name="select_priority_price_selected" width="42" height="42"/>
+    </resources>
+</document>

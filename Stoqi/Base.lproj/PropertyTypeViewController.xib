@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PropertyTypeViewController" customModule="Stoqi" customModuleProvider="target">
+            <connections>
+                <outlet property="bApartment" destination="XIw-9q-QCY" id="NGr-B3-Oc7"/>
+                <outlet property="bCommercial" destination="8KS-Lp-nMq" id="qxK-ay-Nvl"/>
+                <outlet property="bHouse" destination="qVh-78-jEd" id="scF-2b-jvU"/>
+                <outlet property="view" destination="4ff-YH-P9Q" id="8uI-Kn-fQK"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="4ff-YH-P9Q">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XIw-9q-QCY">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="220"/>
+                    <inset key="contentEdgeInsets" minX="46" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="32" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Apartment" image="select_residence_apartment">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="select_residence_apartment_selected">
+                        <color key="titleColor" red="0.98823529480000005" green="0.43529412150000002" blue="0.086274512110000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="optionSelected:" destination="-1" eventType="touchUpInside" id="BgI-y6-h0F"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lQf-1h-Fp3">
+                    <rect key="frame" x="0.0" y="220" width="375" height="1"/>
+                    <color key="backgroundColor" red="0.81960785390000002" green="0.90588235859999999" blue="0.83137255909999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="UrL-3H-mRK"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qVh-78-jEd">
+                    <rect key="frame" x="0.0" y="221" width="375" height="220"/>
+                    <inset key="contentEdgeInsets" minX="32" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="32" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="7" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="House" image="select_residence_house">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="select_residence_house_selected">
+                        <color key="titleColor" red="0.98823529480000005" green="0.43529412150000002" blue="0.086274512110000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="optionSelected:" destination="-1" eventType="touchUpInside" id="97q-si-hq8"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FGU-hz-bb7">
+                    <rect key="frame" x="0.0" y="441" width="375" height="1"/>
+                    <color key="backgroundColor" red="0.81960785390000002" green="0.90588235859999999" blue="0.83137255909999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="Htt-EW-8bN"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8KS-Lp-nMq">
+                    <rect key="frame" x="0.0" y="442" width="375" height="220.5"/>
+                    <inset key="contentEdgeInsets" minX="50" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="32" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="-2" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <state key="normal" title="Commercial Room" image="select_residence_commercial">
+                        <color key="titleColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" image="select_residence_commercial_selected">
+                        <color key="titleColor" red="0.98823529480000005" green="0.43529412150000002" blue="0.086274512110000007" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="optionSelected:" destination="-1" eventType="touchUpInside" id="S1d-q1-Mn0"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="8KS-Lp-nMq" firstAttribute="centerX" secondItem="qVh-78-jEd" secondAttribute="centerX" id="7TS-Uh-iQO"/>
+                <constraint firstItem="XIw-9q-QCY" firstAttribute="height" secondItem="4ff-YH-P9Q" secondAttribute="height" multiplier="0.33" id="APs-WE-xxf"/>
+                <constraint firstItem="qVh-78-jEd" firstAttribute="width" secondItem="XIw-9q-QCY" secondAttribute="width" id="Ie1-EJ-B3R"/>
+                <constraint firstItem="XIw-9q-QCY" firstAttribute="leading" secondItem="4ff-YH-P9Q" secondAttribute="leading" id="Mea-k7-evL"/>
+                <constraint firstItem="qVh-78-jEd" firstAttribute="centerX" secondItem="XIw-9q-QCY" secondAttribute="centerX" id="NVG-08-tnZ"/>
+                <constraint firstItem="lQf-1h-Fp3" firstAttribute="centerX" secondItem="XIw-9q-QCY" secondAttribute="centerX" id="NVk-E6-Wb3"/>
+                <constraint firstItem="8KS-Lp-nMq" firstAttribute="width" secondItem="qVh-78-jEd" secondAttribute="width" id="R2a-Lo-YJk"/>
+                <constraint firstItem="8KS-Lp-nMq" firstAttribute="top" secondItem="qVh-78-jEd" secondAttribute="bottom" constant="1" id="RFT-cn-aJM"/>
+                <constraint firstItem="lQf-1h-Fp3" firstAttribute="width" secondItem="XIw-9q-QCY" secondAttribute="width" id="U7u-Xe-hR4"/>
+                <constraint firstAttribute="trailing" secondItem="XIw-9q-QCY" secondAttribute="trailing" id="VNH-hG-fLf"/>
+                <constraint firstItem="8KS-Lp-nMq" firstAttribute="height" secondItem="qVh-78-jEd" secondAttribute="height" id="Wyx-cA-O8N"/>
+                <constraint firstItem="qVh-78-jEd" firstAttribute="height" secondItem="XIw-9q-QCY" secondAttribute="height" id="Y6b-LO-Hjd"/>
+                <constraint firstItem="XIw-9q-QCY" firstAttribute="top" secondItem="4ff-YH-P9Q" secondAttribute="top" id="cfo-PR-xm9"/>
+                <constraint firstItem="qVh-78-jEd" firstAttribute="top" secondItem="XIw-9q-QCY" secondAttribute="bottom" constant="1" id="dlV-3j-FGp"/>
+                <constraint firstItem="lQf-1h-Fp3" firstAttribute="top" secondItem="XIw-9q-QCY" secondAttribute="bottom" id="eTK-lq-jei"/>
+                <constraint firstItem="FGU-hz-bb7" firstAttribute="width" secondItem="qVh-78-jEd" secondAttribute="width" id="kcL-Li-Bgc"/>
+                <constraint firstItem="FGU-hz-bb7" firstAttribute="top" secondItem="qVh-78-jEd" secondAttribute="bottom" id="uC0-Uf-vrk"/>
+                <constraint firstItem="FGU-hz-bb7" firstAttribute="centerX" secondItem="qVh-78-jEd" secondAttribute="centerX" id="xr0-AY-l8T"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="select_residence_apartment" width="29" height="43"/>
+        <image name="select_residence_apartment_selected" width="29" height="43"/>
+        <image name="select_residence_commercial" width="24" height="51"/>
+        <image name="select_residence_commercial_selected" width="24" height="51"/>
+        <image name="select_residence_house" width="43" height="34"/>
+        <image name="select_residence_house_selected" width="43" height="34"/>
+    </resources>
+</document>

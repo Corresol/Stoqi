@@ -1,0 +1,55 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.2.0)
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.23.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.23.0):
+    - FBSDKCoreKit
+  - GCDKit (2.1.0)
+  - IQKeyboardManagerSwift (4.0.10)
+  - MBCircularProgressBar (0.3.5)
+  - MBProgressHUD (1.0.0)
+  - MTBBarcodeScanner (5.0.0)
+  - OneSignal (2.5.4)
+  - TestFairy (1.9.1)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - AlamofireImage
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - GCDKit
+  - IQKeyboardManagerSwift
+  - MBCircularProgressBar
+  - MBProgressHUD
+  - MTBBarcodeScanner
+  - OneSignal
+  - TestFairy
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d11a4c12c6aaf704b8a3f56d179198c99f3e41e6
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: d7829f5a69901cd7296105328e4c3c3fc7da6518
+  FBSDKLoginKit: 6b92bd65f319d669d2b0730e49db495ef1660566
+  GCDKit: 321b439175c22e31fffb58dfc20078bf58ba4c60
+  IQKeyboardManagerSwift: 75ba21a23794a1e6b6fe6d9a267ea17f80e06771
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MTBBarcodeScanner: f7ac0087f2467ba73e4d429bb1bc2098fe11b09f
+  OneSignal: da994bcf6a2efbdceaf71e389e1d05245c562899
+  TestFairy: aca69fb848d0e5637ab7a000c2fdb0b6d0a07236
+
+PODFILE CHECKSUM: 4c5991ec469119264a1d16e04c37ca059aafa91d
+
+COCOAPODS: 1.2.0

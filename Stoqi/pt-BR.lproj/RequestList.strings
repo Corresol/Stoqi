@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Add Item"; ObjectID = "58N-fv-NRh"; */
+"58N-fv-NRh.text" = "Add Item";
+
+/* Class = "UIButton"; normalTitle = "Finalize List"; ObjectID = "5HB-1G-8Ql"; */
+"5HB-1G-8Ql.normalTitle" = "Finalize List";
+
+/* Class = "UIButton"; normalTitle = "Got It"; ObjectID = "ETD-Ie-iKj"; */
+"ETD-Ie-iKj.normalTitle" = "Got It";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "Fhb-FX-SGH"; */
+"Fhb-FX-SGH.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Scan product's barcode"; ObjectID = "Tot-EI-t2M"; */
+"Tot-EI-t2M.text" = "Scan product's barcode";
+
+/* Class = "UILabel"; text = "R$ 127,84"; ObjectID = "Vcu-ny-7a9"; */
+"Vcu-ny-7a9.text" = "R$ 127,84";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Wkm-eS-NlK"; */
+"Wkm-eS-NlK.text" = "Title";
+
+/* Class = "UILabel"; text = "The best price to your list"; ObjectID = "YkJ-zi-oPZ"; */
+"YkJ-zi-oPZ.text" = "The best price to your list";
+
+/* Class = "UILabel"; text = "Some details"; ObjectID = "aH5-kY-aHu"; */
+"aH5-kY-aHu.text" = "Some details";
+
+/* Class = "UILabel"; text = "If you do not know name of the product, use your camera to scan the barcode to fill in all fields"; ObjectID = "bB9-up-aKT"; */
+"bB9-up-aKT.text" = "If you do not know name of the product, use your camera to scan the barcode to fill in all fields";
+
+/* Class = "UILabel"; text = "Try using your camera to read barcode"; ObjectID = "cNh-IB-OSK"; */
+"cNh-IB-OSK.text" = "Try using your camera to read barcode";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "fKj-nN-td7"; */
+"fKj-nN-td7.text" = "Brand";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "kTE-mT-86H"; */
+"kTE-mT-86H.text" = "1";
+
+/* Class = "UILabel"; text = "Saving up!"; ObjectID = "ovG-g6-ugk"; */
+"ovG-g6-ugk.text" = "Saving up!";
+
+/* Class = "UILabel"; text = "Your List"; ObjectID = "p2U-4E-D4m"; */
+"p2U-4E-D4m.text" = "Your List";
+
+/* Class = "UILabel"; text = "Edit Item"; ObjectID = "r7E-za-Fi8"; */
+"r7E-za-Fi8.text" = "Edit Item";
+
+/* Class = "UILabel"; text = "R$ 17,24"; ObjectID = "rLg-0R-Bsj"; */
+"rLg-0R-Bsj.text" = "R$ 17,24";
+
+/* Class = "UILabel"; text = "You save up"; ObjectID = "rQr-Ya-vvM"; */
+"rQr-Ya-vvM.text" = "You save up";
+
+/* Class = "UIButton"; normalTitle = "Buy"; ObjectID = "wsp-aw-FUP"; */
+"wsp-aw-FUP.normalTitle" = "Buy";
+
+/* Class = "UIButton"; normalTitle = "Use the barcode"; ObjectID = "xSS-rS-l3Z"; */
+"xSS-rS-l3Z.normalTitle" = "Use the barcode";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "zye-mK-q6C"; */
+"zye-mK-q6C.normalTitle" = "Ok";
